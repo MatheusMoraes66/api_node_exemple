@@ -1,0 +1,7 @@
+# dependencies
+node_modules
+.dist
+
+# misc(arquivos de log)
+yarn-error.log
+yarn.lock
